@@ -1,0 +1,9 @@
+Offline Signature Authentication Algorithm
+Overview
+This repository provides an implementation of an offline signature authentication algorithm based on fuzzy set theory. The algorithm enables verification of handwritten signatures without requiring real-time connectivity.
+
+Citation
+If you use this algorithm in your research, please cite the following paper:
+
+Qiu, Shi, Fei, Fengchang, Cui, Ying. (2021). "Offline Signature Authentication Algorithm Based on the Fuzzy Set." Mathematical Problems in Engineering, 2021, Article ID 5554341, 8 pages.
+https://doi.org/10.1155/2021/5554341
